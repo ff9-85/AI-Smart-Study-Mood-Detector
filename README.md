@@ -45,7 +45,7 @@ ai-study-mood-detection/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-Lakshitha-R-E/AI_Smart_Study_Mood_Detection
+git clone https://github.com/your-Lakshitha-R-E/AI-Smart-Study-Mood-Detection
 cd AI Smart Study Mood Detection
 
 ### 2️⃣ Install dependencies
@@ -105,4 +105,5 @@ IT Student | AI & Web Development Enthusiast
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and feel free to fork or contribute!
+
 
